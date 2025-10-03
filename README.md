@@ -28,21 +28,21 @@ The dataset contains the following columns:
 - Highlights that most laureates are between 50–70 years old, while some exceptional cases received the prize at unusually young or old ages.
 - Category-specific comparisons reveal that fields like Medicine and Physics tend to award younger laureates, while Literature and Peace often go to older recipients.
 - Visuals used: Distribution plots and comparative summaries to capture spread and outliers.
-- ![alt text](image-4.png)
+![alt text](image-4.png)
 
 2.Trends Over Time
 - Explores how awards have changed across years and categories.
 - Shows clusters of laureates’ ages over time and how the number of awards in each category evolves.
 - Helps detect anomalies, such as periods with unusually young or old recipients in certain fields.
 - Visuals used: Scatterplots connecting year and age/prize patterns to reveal correlations and historical trends.
-- ![alt text](image-3.png)
+![alt text](image-3.png)
 
 3.Category and Gender Representation
 - Illustrates the proportion of laureates across different categories and genders.
 - Reveals a significant gender disparity, with male laureates dominating most categories.
 - Categories like Peace and Literature show relatively higher female representation.
 - Visuals used: Pie charts and proportional comparisons to visualize overall distributions clearly.
-- ![alt text](image-2.png)
+![alt text](image-2.png)
 
 4.Geographical and Institutional Contributions
 - Compares the number of laureates from different countries and organizations.
