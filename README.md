@@ -2,7 +2,7 @@
 # 📘 Project Overview
 This dataset encompasses detailed information about Nobel Prize laureates from 1901 to 2016, including personal, professional, and award-related data. It serves as a valuable resource for analyzing trends, demographics, and patterns in Nobel Prize awards across various categories and time periods.
 ## 📊 Dataset Columns
-
+The dataset contains the following columns:
 - `year`: Year of the Nobel Prize award.  
 - `category`: Category of the award (e.g., Physics, Chemistry, Medicine, Literature, Peace, Economic Sciences).  
 - `prize`: Name of the prize awarded.  
@@ -21,3 +21,10 @@ This dataset encompasses detailed information about Nobel Prize laureates from 1
 - `death_date`: Date of death.  
 - `death_city`: City of death.  
 - `death_country`: Country of death . 
+
+# 🛠️ Tech Stack
+- Python: Programming language for data manipulation and analysis.
+- Pandas: Data manipulation and analysis.
+- Matplotlib: Plotting and visualization.
+- Seaborn: Statistical data visualization.
+- Numpy: Numerical computing.
