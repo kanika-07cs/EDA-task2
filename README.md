@@ -4,8 +4,8 @@ This dataset encompasses detailed information about Nobel Prize laureates from 1
 
 # 📊 Dataset Columns
 
-The dataset contains the following columns:
-year: Year of the Nobel Prize award.
+The dataset contains the following columns:/n
+year: Year of the Nobel Prize award./n
 category: Category of the award (e.g., Physics, Chemistry, Medicine, Literature, Peace, Economic Sciences).
 prize: Name of the prize awarded.
 motivation: Reason for awarding the prize.
