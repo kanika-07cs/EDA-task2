@@ -1,6 +1,7 @@
 # NOBLE PRIZE WINNERS
-# 📘 Project Overview
+## 📘 Project Overview
 This dataset encompasses detailed information about Nobel Prize laureates from 1901 to 2016, including personal, professional, and award-related data. It serves as a valuable resource for analyzing trends, demographics, and patterns in Nobel Prize awards across various categories and time periods.
+
 ## 📊 Dataset Columns
 The dataset contains the following columns:
 - `year`: Year of the Nobel Prize award.  
@@ -22,7 +23,7 @@ The dataset contains the following columns:
 - `death_city`: City of death.  
 - `death_country`: Country of death . 
 
-# 📊 Visual Insights into Nobel Prize Data
+## 📊 Visual Insights into Nobel Prize Data
 1.Age and Career Patterns
 - Examines how laureates’ ages are distributed when they receive their awards.
 - Highlights that most laureates are between 50–70 years old, while some exceptional cases received the prize at unusually young or old ages.
@@ -46,15 +47,14 @@ The dataset contains the following columns:
 - Highlights that the United States, Germany, and the United Kingdom dominate Nobel awards, and organizations like the International Committee of the Red Cross and the UN have received multiple prizes.
 - Visuals used: Horizontal bar charts for easier comparison of countries/organizations with long names and varying award counts.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python: Programming language for data manipulation and analysis.
 - Pandas: Data manipulation and analysis.
 - Matplotlib: Plotting and visualization.
 - Seaborn: Statistical data visualization.
 - Numpy: Numerical computing.
 
-# ✅ Conclusion
-
+## ✅ Conclusion
 The analysis provides a comprehensive overview of Nobel Prize trends and demographics. Key takeaways include:
 - An increasing number of awards over time, particularly in the latter half of the 20th century.
 - A notable gender disparity, with efforts needed to encourage female participation in certain categories.
