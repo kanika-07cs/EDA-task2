@@ -22,12 +22,33 @@ The dataset contains the following columns:
 - `death_city`: City of death.  
 - `death_country`: Country of death . 
 
-# 📊 Data Visualizations and Insights
-1. Age living
-- The majority of laureates receive the prize between ages 50 and 70.
-- Outliers are present, showing some laureates received the award at unusually young or old ages.
-- Category-wise comparison using multiple boxplots can reveal which fields tend to award younger or older laureates.
-- (image.png)
+# 📊 Visual Insights into Nobel Prize Data
+1.Age and Career Patterns
+- Examines how laureates’ ages are distributed when they receive their awards.
+- Highlights that most laureates are between 50–70 years old, while some exceptional cases received the prize at unusually young or old ages.
+- Category-specific comparisons reveal that fields like Medicine and Physics tend to award younger laureates, while Literature and Peace often go to older recipients.
+- Visuals used: Distribution plots and comparative summaries to capture spread and outliers.
+- ![alt text](image-4.png)
+
+2.Trends Over Time
+- Explores how awards have changed across years and categories.
+- Shows clusters of laureates’ ages over time and how the number of awards in each category evolves.
+- Helps detect anomalies, such as periods with unusually young or old recipients in certain fields.
+- Visuals used: Scatterplots connecting year and age/prize patterns to reveal correlations and historical trends.
+- ![alt text](image-3.png)
+
+3.Category and Gender Representation
+- Illustrates the proportion of laureates across different categories and genders.
+- Reveals a significant gender disparity, with male laureates dominating most categories.
+- Categories like Peace and Literature show relatively higher female representation.
+- Visuals used: Pie charts and proportional comparisons to visualize overall distributions clearly.
+- ![alt text](image-2.png)
+
+4.Geographical and Institutional Contributions
+- Compares the number of laureates from different countries and organizations.
+- Highlights that the United States, Germany, and the United Kingdom dominate Nobel awards, and organizations like the International Committee of the Red Cross and the UN have received multiple prizes.
+- Visuals used: Horizontal bar charts for easier comparison of countries/organizations with long names and varying award counts.
+![alt text](image-1.png)
 
 # 🛠️ Tech Stack
 - Python: Programming language for data manipulation and analysis.
@@ -35,3 +56,10 @@ The dataset contains the following columns:
 - Matplotlib: Plotting and visualization.
 - Seaborn: Statistical data visualization.
 - Numpy: Numerical computing.
+
+# ✅ Conclusion
+
+The analysis provides a comprehensive overview of Nobel Prize trends and demographics. Key takeaways include:
+- An increasing number of awards over time, particularly in the latter half of the 20th century.
+- A notable gender disparity, with efforts needed to encourage female participation in certain categories.
+- A concentration of laureates from specific countries, highlighting the need for global representation.
