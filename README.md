@@ -27,7 +27,7 @@ The dataset contains the following columns:
 - The majority of laureates receive the prize between ages 50 and 70.
 - Outliers are present, showing some laureates received the award at unusually young or old ages.
 - Category-wise comparison using multiple boxplots can reveal which fields tend to award younger or older laureates.
-![alt text](image.png)
+- (image.png)
 
 # 🛠️ Tech Stack
 - Python: Programming language for data manipulation and analysis.
