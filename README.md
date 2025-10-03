@@ -22,6 +22,13 @@ The dataset contains the following columns:
 - `death_city`: City of death.  
 - `death_country`: Country of death . 
 
+# 📊 Data Visualizations and Insights
+1. Age living
+- The majority of laureates receive the prize between ages 50 and 70.
+- Outliers are present, showing some laureates received the award at unusually young or old ages.
+- Category-wise comparison using multiple boxplots can reveal which fields tend to award younger or older laureates.
+![alt text](image.png)
+
 # 🛠️ Tech Stack
 - Python: Programming language for data manipulation and analysis.
 - Pandas: Data manipulation and analysis.
