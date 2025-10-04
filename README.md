@@ -35,6 +35,8 @@ The dataset contains the following columns:
 - Shows clusters of laureates’ ages over time and how the number of awards in each category evolves.
 - Helps detect anomalies, such as periods with unusually young or old recipients in certain fields.
 - Visuals used: Scatterplots connecting year and age/prize patterns to reveal correlations and historical trends.
+- <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/22f898a7-a2e6-47d6-98ec-138c91c86ebf" />
+
 
 3.Category and Gender Representation
 - Illustrates the proportion of laureates across different categories and genders.
