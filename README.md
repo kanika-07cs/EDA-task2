@@ -29,13 +29,14 @@ The dataset contains the following columns:
 - Highlights that most laureates are between 50–70 years old, while some exceptional cases received the prize at unusually young or old ages.
 - Category-specific comparisons reveal that fields like Medicine and Physics tend to award younger laureates, while Literature and Peace often go to older recipients.
 - Visuals used: Distribution plots and comparative summaries to capture spread and outliers.
+- <img width="560" height="435" alt="image" src="https://github.com/user-attachments/assets/d617e08a-47dc-4718-92d6-bdc0617182d9" />
 
 2.Trends Over Time
 - Explores how awards have changed across years and categories.
 - Shows clusters of laureates’ ages over time and how the number of awards in each category evolves.
 - Helps detect anomalies, such as periods with unusually young or old recipients in certain fields.
 - Visuals used: Scatterplots connecting year and age/prize patterns to reveal correlations and historical trends.
-- <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/22f898a7-a2e6-47d6-98ec-138c91c86ebf" />
+- <img width="560" height="435" alt="image" src="https://github.com/user-attachments/assets/22f898a7-a2e6-47d6-98ec-138c91c86ebf" />
 
 
 3.Category and Gender Representation
@@ -43,11 +44,15 @@ The dataset contains the following columns:
 - Reveals a significant gender disparity, with male laureates dominating most categories.
 - Categories like Peace and Literature show relatively higher female representation.
 - Visuals used: Pie charts and proportional comparisons to visualize overall distributions clearly.
+- <img width="560" height="435" alt="image" src="https://github.com/user-attachments/assets/da79cbf8-dd24-4ac5-8d5c-16428b6caf4e" />
+
 
 4.Geographical and Institutional Contributions
 - Compares the number of laureates from different countries and organizations.
 - Highlights that the United States, Germany, and the United Kingdom dominate Nobel awards, and organizations like the International Committee of the Red Cross and the UN have received multiple prizes.
 - Visuals used: Horizontal bar charts for easier comparison of countries/organizations with long names and varying award counts.
+- <img width="560" height="435" alt="image" src="https://github.com/user-attachments/assets/6d76fceb-47fe-459a-a541-847a46cc51e3" />
+
 
 ## 🛠️ Tech Stack
 - Python: Programming language for data manipulation and analysis.
